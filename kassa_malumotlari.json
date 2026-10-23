@@ -1,0 +1,35 @@
+{
+    "yigim_nomi": "Ovqat puli",
+    "belgilangan_summa": 50000,
+    "oquvchilar": {
+        "Ali Valiyev": {
+            "jami": 50000,
+            "tarix": [
+                {
+                    "id": 1,
+                    "summa": 50000,
+                    "sana": "2026-10-23 13:59",
+                    "tur": "Naqd",
+                    "izoh": "Boshlang'ich to'lov"
+                }
+            ]
+        },
+        "Bekzod Karimov": {
+            "jami": 30000,
+            "tarix": [
+                {
+                    "id": 2,
+                    "summa": 30000,
+                    "sana": "2026-10-23 13:59",
+                    "tur": "Karta (Click)",
+                    "izoh": "Qisman to'landi"
+                }
+            ]
+        },
+        "Dilnoza Rahimova": {
+            "jami": 0,
+            "tarix": []
+        }
+    },
+    "tarix": []
+}
